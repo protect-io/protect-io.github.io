@@ -1,0 +1,10 @@
+img.logo {
+	display: block;
+	visibility: visible;
+	width: 450px;
+	height: 127px;
+	margin-right: auto;
+	margin-left: auto;
+	top: 200px;
+	position: relative;
+}
